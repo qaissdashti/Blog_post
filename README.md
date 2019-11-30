@@ -42,7 +42,16 @@ I will summarise the finding here in section based on the topic:
 Prices:
 The highest three neighbourhoods are, Magnolia 177 USD, Queen Anne at 157 USD, and Downtown at 154 USD
 Down town neighrbourhood has the highest prices as outliers, and second highest as of counts of rental properties.
-The highest mean prices of the year at July. It is surley summer and tourest are in seattle.
+The highest mean prices of the year at July at 151 USD. It is surley summer and tourest are in seattle. The lowest month is January which is after all the holidays at a mean price of 121 USD.
+
+Property Type:
+The Appartments and Houses are the main rental propotyies by far (45% and 44% respectivly). Aprtamnet and Houses are close from a price standpoint. Houses have a larger spread of prices in comparison with Appartments. 
+
+Best Rental Dates:
+The highest month for rental is July and the lowest is January.
+
+
+
 
 
 
