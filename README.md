@@ -38,7 +38,7 @@ below are a few question i came up with. The answer should provide some isnight.
 
 
 <b>My findings</b>
-I will summarise the finding here in section based on the topic:
+I will summarise the finding here in sections based on the topic:
 Prices:
 The highest three neighbourhoods are, Magnolia 177 USD, Queen Anne at 157 USD, and Downtown at 154 USD
 Down town neighrbourhood has the highest prices as outliers, and second highest as of counts of rental properties.
