@@ -79,5 +79,5 @@ Above some features make sense like neighbourhood of Downtown affects the price 
 
 
 <b>Acknowledgments and thanks</b>
-Thanks to AirBnb for providing the data to analyse:
-Seattle Airbnb da
+Thanks to AirBnb for providing the data to analyse. 
+
