@@ -27,6 +27,7 @@ the data has three files listed below:
 1. Calendar
 2. Listing
 3. reviews
+4. ML_combined (file with ready, cleaned data for Linear Regression fitting)
 
 
 <b> My Questions </b>
