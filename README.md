@@ -82,3 +82,6 @@ Above some features make sense like neighbourhood of Downtown affects the price 
 <b>Acknowledgments and thanks</b>
 Thanks to AirBnb for providing the data to analyse. 
 
+<b> Link to Post </b>
+https://medium.com/@qaiss/why-invest-in-seattle-with-airbnb-8944fde4719b
+
